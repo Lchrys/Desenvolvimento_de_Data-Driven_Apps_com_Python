@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+transformers<5 # versão compativel com o pytorch
+torch
+sentencepiece
+sacremoses
+requests

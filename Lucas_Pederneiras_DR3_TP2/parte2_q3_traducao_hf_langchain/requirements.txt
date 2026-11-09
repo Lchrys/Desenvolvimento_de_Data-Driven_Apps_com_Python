@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers<5 # versão compativel
+torch
+sentencepiece
+sacremoses
+langchain-core
+langchain-huggingface
+requests
